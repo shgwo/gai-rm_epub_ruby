@@ -1,5 +1,5 @@
 # gai-rm_epub_ruby
-A Python script removing epub ruby tag
+A Python script removing epub ruby tag (coded by Gemini)
 
 ## pre-requirements (Arch Linux)
 
