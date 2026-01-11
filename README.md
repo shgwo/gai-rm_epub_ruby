@@ -2,8 +2,11 @@
 A Python script removing epub ruby tag
 
 ## pre-requirements (Arch Linux)
-python-beutifulsoup4
-python-lxml
+
+| python packages |
+| -- |
+| python-beutifulsoup4 |
+| python-lxml |
 
 e.g. on Arch Linux,
 
