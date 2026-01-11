@@ -11,11 +11,11 @@ e.g. on Arch Linux,
     sudo pacman -S lxml
 
 ## exec
-In the cloned dir, with your target epub (hogehoge.epub)
+In the cloned dir, with your target epub (./hogehoge.epub)
 
     python ./rm_epub_rb.py hogehoge.epub
 
-The script returned,
+The script returns,
 
     完了: hogehoge_no_ruby.epub
     
